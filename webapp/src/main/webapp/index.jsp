@@ -4,3 +4,4 @@
 <h2> Deploy to container </h2>
 <h2> Deploy to container using ansible </h2>
 <h2> Deploy to container using ansible playbook</h2>
+<h2> Fixed Docker login via root</h2>
